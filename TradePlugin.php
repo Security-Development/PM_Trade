@@ -1,7 +1,7 @@
 <?php
 /**
  * @name TradePlugin
- * @author HANA
+ * @author Security-Development
  * @main TradePlugin\TradePlugin
  * @version 0.1.0
  * @api 3.10.0
